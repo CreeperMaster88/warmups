@@ -57,7 +57,7 @@ namespace _102718
                 }
                 countUp++;
             }
-            Console.WriteLine("There are 200 priume numbers!");
+            Console.WriteLine("There are a LOT of prime numbers!");
             Console.ReadKey();
         }
     }
